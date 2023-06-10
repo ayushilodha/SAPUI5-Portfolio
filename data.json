@@ -1,0 +1,95 @@
+{
+    "name":"Ayushi Lodha",
+    "email":"ayushi.lodha@incture.com",
+    "designation":"Student Intern",
+    "phone":"+91-9413261204",
+    "currentcompany":"Incture Technologies",
+    "education":[
+        {
+            "type":"Xth",
+            "inst":"Sophia Girls Secondary School,Bhilwara Rajasthan",
+            "per":"85%",
+            "year":2016
+        },
+        {
+            "type":"XIIth",
+            "inst":"Sophia Girls Secondary School,Bhilwara Rajasthan",
+            "per":"71%",
+            "year":2018
+        },
+        {
+            "type":"B.E. Information Science ",
+            "inst":"BNM Institute of Technology,Bangalore Karnataka",
+            "per":"8.3",
+            "year":"2019 - 2023"
+        }
+    ], 
+    "skills":[
+        {
+            "name": "Programming Languages",
+            "languages":"C,C++,Python,JAVA (Basics),MySQL"
+        },
+        {
+            "name": "Scripting Languages",
+            "languages":"HTML, CSS, JavaScript"
+        },
+        {
+            "name": "Frameworks Known",
+            "languages":"Bootstrap, SAPUI5"
+        }
+    ],
+    "certification":[
+        {
+            "name":"Goldman Sachs - VIRTUAL TRAINING PROGRAM",
+            "year":"August 2021"
+        },
+        {
+            "name":"Deloitte - VIRTUAL TRAINING PROGRAM ",
+            "year":"September 2021"
+        },
+        {
+            "name":"HTML Workshop - GFG",
+            "year":"2022"
+        },
+        {
+            "name":"C & C++ - Unschool ",
+            "year":"2022"
+        }
+       
+       
+    ], 
+    "assessment":[
+        {
+            "name" : "SQL Basics - HackerRank "
+        },
+        {
+            "name" : "CSS - HackerRank "
+        },
+        {
+            "name" : "CoCubes Assessment",
+            "score": "Score - 600"
+        }
+    ],
+
+    "projects":[
+        {
+            "name": "Storybook Management System Using Progressive Overflow Hashing technique | HTML, CSS, Django",
+            "desc" : " Implemented file structures technique to perform file operations such as add,delete and modify and also visualized file operations to prevent collision of records in a file"
+            
+        },
+        {
+            "name": "IFSC Code Validator | XML, JAVA, JSON",
+            "desc" : "Developed a IFSC code validator application using Android Studio IDE, XML, JAVA and JSON to validate the code and display bank details of the user"
+        },
+        {
+            "name": "Ferry Management System | HTML, CSS, JAVA, MySQL",
+            "desc" : "Created a ship booking portal to provide an efficient platform for travelers"
+            
+        }
+    ]
+
+
+
+
+
+}
