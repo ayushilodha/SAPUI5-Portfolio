@@ -18,7 +18,6 @@ xmlns:mvc="sap.ui.core.mvc"
             <m:Image id="_IDGenmae1" src="images/pic.jpg" height="70px" width="70px"/>
               <m:Title id="_IDGenTitle2" text="{portfolio>/name}" />
               <m:Text id="_IDGenText1" text="{portfolio>/designation}" />
-
             </m:VBox>
           </m:HBox>
         </snappedHeading>
